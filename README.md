@@ -13,8 +13,8 @@
 
 
 **🔥 News!!!**
-
-- [2025/04] We release the model checkpoints and inference code. <span style="color: red;">[**New!**]</span>
+- [2025/07] The ReTool [Recipe](https://www.notion.so/verl-reTool-recipe-Using-multi-round-conversations-and-code-sandboxing-to-improve-the-math-of-large-23a8b5b7feba80b386b2e5b5e3c1cde0) is fully open sourced. <span style="color: red;">[**New!**]</span>
+- [2025/04] We release the model checkpoints and inference code.
 
 
 
